@@ -85,26 +85,10 @@ color: grey;
 
 }
 
-.card-white .btn {
-  
-}
-
-.card-white:hover .btn {
-  
-}
-
-
 .card-user {
   margin-top: 8px;
   display: flex;
   align-items: center;
-}
-.card-user a {
-  
-}
-
-.card-user a:hover {
-  
 }
 
 .cards {
